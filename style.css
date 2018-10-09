@@ -1,0 +1,72 @@
+
+#main {
+  background-color: #e6ffe6;
+  width: 95%;
+  height: 95%;
+  display: block;
+  margin: auto;
+}
+
+header {
+  text-align: center;
+  font-family: 'Crete Round', serif;
+  font-weight: bold;
+}
+
+#title {
+  font-size: 55px;
+  text-transform: uppercase;
+  padding-top: 30px;
+}
+
+#img-div {
+  margin: 30px auto;
+}
+
+#image {
+  display: block;
+  max-width: 80%;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+#img-caption {
+   font-family: 'Crete Round', serif;
+   font-size: 20px;
+  margin-top: 10px;
+}
+
+#tribute-info {
+  font-family: 'Amiri', serif;
+}
+
+h4 {
+  padding-left: 60px;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+ol {
+  padding-left: 80px;
+    font-size: 20px;
+}
+
+li {
+  padding-left: 5px;
+  padding-bottom: 10px;
+}
+
+blockquote {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+  padding: 20px;
+}
+
+

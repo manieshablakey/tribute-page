@@ -1,1 +1,1 @@
-This is a tribute page to bees.
+This is a tribute page to bees (CSS and HTML only)
