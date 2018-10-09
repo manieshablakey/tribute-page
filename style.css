@@ -2,7 +2,6 @@
 #main {
   background-color: #e6ffe6;
   width: 95%;
-  height: 95%;
   display: block;
   margin: auto;
 }
@@ -34,7 +33,6 @@ header {
 #img-caption {
    font-family: 'Crete Round', serif;
    font-size: 20px;
-  margin-top: 10px;
 }
 
 #tribute-info {
@@ -53,8 +51,7 @@ ol {
 }
 
 li {
-  padding-left: 5px;
-  padding-bottom: 10px;
+  padding: 0 10px 10px 5px;
 }
 
 blockquote {
